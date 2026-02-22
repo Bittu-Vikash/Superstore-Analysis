@@ -20,6 +20,8 @@ The workbook includes worksheets, dashboards, and a story to simulate a real-wor
 
 ---
 
+## Tableau Piblic link : https://public.tableau.com/app/profile/bittu.vikash.3000/vizzes
+
 ## 📁 Workbook Structure
 
 ### 1️⃣ Worksheets (Exploratory Analysis)
